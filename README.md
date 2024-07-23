@@ -1,5 +1,6 @@
 ## LASAFT-Net-v2
 
+我修改了安装依赖，在kino_requirements.txt里
 
 ### Listen, Attend and Separate by Attentively aggregating Frequency Transformation
 
